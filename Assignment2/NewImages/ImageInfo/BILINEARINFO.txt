@@ -1,0 +1,4 @@
+Displaying zoom image information
+Filename: NewImages/ImageInfo/BILINEARINFO.txt
+Image size: 1500X1500
+Zoom scale: 2

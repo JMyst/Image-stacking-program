@@ -1,0 +1,4 @@
+Displaying zoom image information
+Filename: NewImages/ImageInfo/ZOOMX4INFO.txt
+Image size: 3000X3000
+Zoom scale: 4

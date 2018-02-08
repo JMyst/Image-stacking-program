@@ -1,0 +1,9 @@
+﻿  main.cpp
+f:\year 2\oop\assignment2\assignment2\image.h(44): warning C4018: '<': signed/unsigned mismatch
+f:\year 2\oop\assignment2\assignment2\image.h(53): warning C4018: '<': signed/unsigned mismatch
+f:\year 2\oop\assignment2\assignment2\image.h(62): warning C4018: '<': signed/unsigned mismatch
+f:\year 2\oop\assignment2\assignment2\main.cpp(156): warning C4018: '<': signed/unsigned mismatch
+f:\year 2\oop\assignment2\assignment2\main.cpp(172): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+f:\year 2\oop\assignment2\assignment2\main.cpp(195): warning C4018: '<': signed/unsigned mismatch
+  Assignment2.vcxproj -> F:\Year 2\OOP\Assignment2\x64\Debug\Assignment2.exe
+  Assignment2.vcxproj -> F:\Year 2\OOP\Assignment2\x64\Debug\Assignment2.pdb (Partial PDB)

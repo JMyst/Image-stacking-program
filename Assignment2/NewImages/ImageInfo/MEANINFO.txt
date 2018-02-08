@@ -1,0 +1,3 @@
+Displaying image information
+Filename: NewImages/ImageInfo/MEANINFO.txt
+Image size: 3264X2448
